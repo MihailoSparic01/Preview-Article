@@ -14,7 +14,7 @@ html {
 
 body {
   background-color: #ecf2f8;
-  padding-top: 30rem;
+  padding-top: 16rem;
 }
 
 .card-preview {
@@ -163,7 +163,7 @@ svg {
 
   .card-preview {
     grid-template-columns: 1fr;
-    grid-template-rows: 1fr 1fr;
+    grid-template-rows: 18rem 1fr;
   }
 
   .share {
@@ -181,6 +181,6 @@ svg {
 
   .main-img {
     max-width: 100%;
-    width: 100%;
+    border-radius: 1rem 1rem 0 0;
   }
 }
