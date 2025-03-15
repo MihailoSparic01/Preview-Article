@@ -14,7 +14,10 @@ html {
 
 body {
   background-color: #ecf2f8;
-  padding-top: 16rem;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .card-preview {
