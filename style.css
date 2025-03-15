@@ -40,6 +40,7 @@ img {
 .text-content {
   padding: 3rem 4rem;
   background-color: #ffffff;
+  border-radius: 0 1rem 1rem 0;
 }
 
 .avatar-img {
@@ -149,6 +150,10 @@ svg {
   border-width: 10px;
   border-style: solid;
   border-color: #3498db transparent transparent transparent; */
+}
+
+.main-img {
+  border-radius: 1rem 0 0 1rem;
 }
 
 @media screen and (max-width: 33.5em) {
